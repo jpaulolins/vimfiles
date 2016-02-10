@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/Users/jpcbl/Desktop/go-spike'
+let g:netrw_dirhist_2='/Users/jpcbl/Desktop'
+let g:netrw_dirhist_3='/Users/jpcbl/truecrypt2/tempest/projetos/picpay'
+let g:netrw_dirhist_4='/Users/jpcbl/truecrypt2/tempest/projetos/picpay/teste'
+let g:netrw_dirhist_5='/Users/jpcbl/truecrypt2/tempest/projetos/picpay'
+let g:netrw_dirhist_6='/Users/jpcbl/tmp-notes'
+let g:netrw_dirhist_7='/Users/jpcbl'
